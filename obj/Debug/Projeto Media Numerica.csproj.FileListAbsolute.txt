@@ -1,0 +1,9 @@
+C:\Users\aluno\Desktop\MediaNumerica\Projeto Media Numerica\bin\Debug\Projeto Media Numerica.exe.config
+C:\Users\aluno\Desktop\MediaNumerica\Projeto Media Numerica\bin\Debug\Projeto Media Numerica.exe
+C:\Users\aluno\Desktop\MediaNumerica\Projeto Media Numerica\bin\Debug\Projeto Media Numerica.pdb
+C:\Users\aluno\Desktop\MediaNumerica\Projeto Media Numerica\obj\Debug\Projeto Media Numerica.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\MediaNumerica\Projeto Media Numerica\obj\Debug\Projeto_Media_Numerica.Form1.resources
+C:\Users\aluno\Desktop\MediaNumerica\Projeto Media Numerica\obj\Debug\Projeto_Media_Numerica.Properties.Resources.resources
+C:\Users\aluno\Desktop\MediaNumerica\Projeto Media Numerica\obj\Debug\Projeto Media Numerica.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\MediaNumerica\Projeto Media Numerica\obj\Debug\Projeto Media Numerica.exe
+C:\Users\aluno\Desktop\MediaNumerica\Projeto Media Numerica\obj\Debug\Projeto Media Numerica.pdb
